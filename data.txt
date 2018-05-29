@@ -1,0 +1,3 @@
+Name: Luise
+Age: 27
+Favorite Color: Purple
